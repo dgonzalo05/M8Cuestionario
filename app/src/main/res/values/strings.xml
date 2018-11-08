@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_button">Correcto</string>
+    <string name="false_button">Falso</string>
+    <string name="pregunta1">¿Mickey Mouse es Dios?</string>
+    <string name="pregunta2">¿Los Simpson son graciosos?</string>
+    <string name="pregunta3">¿Spiderman tiene hambre?</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="false_toast">Falso</string>
+    <string name="pista_button">Pista!</string>
+</resources>
