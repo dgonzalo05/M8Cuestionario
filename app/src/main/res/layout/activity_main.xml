@@ -7,10 +7,18 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <fragment
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/toolbar_m8"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        android:background="?attr/colorPrimary"
+        />
+
+    <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/fragment_container">
 
-    </fragment>
+    </FrameLayout>
 </LinearLayout>
